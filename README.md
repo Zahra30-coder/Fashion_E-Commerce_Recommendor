@@ -4,9 +4,13 @@ using a two-tower approach for creating query and product embeddings using SBERT
 # Requirements
 
 SentenceTransformer('distilbert-base-uncased')
+
 Annoy
 
 Numpy 
-Pandas 
-Seaborn 
-Matplotlib.pyplot
+
+Pandas
+
+Seaborn
+
+Matplotlib
