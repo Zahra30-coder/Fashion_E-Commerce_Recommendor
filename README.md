@@ -5,7 +5,7 @@ using a two-tower approach for creating query and product embeddings using SBERT
 
 SentenceTransformer('distilbert-base-uncased')
 
-*Annoy
+* Annoy
 
 *Numpy 
 
